@@ -1,4 +1,4 @@
-![Banner] (banner.png)
+![Banner] (removebg-preview-01.png)
 
 # hola a todos soy Damian Cordoba
 
@@ -12,8 +12,8 @@ soy **Estudiante** de **programacion** con lenguaje **Python**
 
 ## Tecnologia y Herramientas
 
-**fronted**: css, javascript, typeScrit
-**backend**: js, Express
+**fronted**: css, javascript, typeScrit \n
+**backend**: js, Express \n
 **devOps**: git, githup
 **otros**: Pyton,   
 
