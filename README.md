@@ -1,4 +1,4 @@
-![Banner] (removebg-preview-01.png)
+![Banner] (Banner.png)
 
 # hola a todos soy Damian Cordoba
 
